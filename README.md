@@ -6,5 +6,17 @@ I love working with data!I enjoy creating automations with python or working on 
 ### My prodjects 
 I make use of kaggle for my data analysis projects , however I have recently completed a small automation project. [Have a look!][1]
 
+### What I work with
+- Python
+- SQL
+- Tableau 
+
+
+
+
+
+
+
+
 
 [1]: https://github.com/deanvanschoor/VT-Excel-Automation- "Excel Automation"
