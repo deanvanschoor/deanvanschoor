@@ -9,6 +9,7 @@ I make use of kaggle for my data analysis projects , however I have recently com
 
 ### Tableau
 - [Covid 19 Dashboard][2]
+- [Wine Prices VS Ratings][3]
 
 ## What I work with
 - Python
@@ -25,3 +26,4 @@ I make use of kaggle for my data analysis projects , however I have recently com
 
 [1]: https://github.com/deanvanschoor/VT-Excel-Automation- "Excel Automation"
 [2]: https://public.tableau.com/views/Covid19Dashboard_16720664419370/Covid19Dash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[3]: https://public.tableau.com/views/WineMetric/MainMenu?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
