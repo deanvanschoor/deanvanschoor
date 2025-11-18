@@ -1,26 +1,11 @@
-# Hi there 👋 I'm Dean
+# Hi, I'm Dean 👋
 
-## About Me
-Python, SQL - mainly for data pipelines.
+Data Engineer building pipelines by day and other stuff by night or sometimes more pipelines.
 
-## My projects 
-### Python
+## Project
 
+**[Real-time Personal Banking pipeline](https://github.com/deanvanschoor/starling-pipeline)**  
+End-to-end data pipeline with real-time ingestion, transformations, and visualisation behind a reverse proxy - inside a few containers
 
+*Tech: Prefect • MotherDuck • Flask • Streamlit • Docker*
 
-## What I work with
-- Python
-- SQL
-
-
-
-
-
-
-
-
-
-
-[1]: https://github.com/deanvanschoor/VT-Excel-Automation- "Excel Automation"
-[2]: https://public.tableau.com/views/Covid19Dashboard_16720664419370/Covid19Dash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-[3]: https://public.tableau.com/views/WineMetric/MainMenu?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
