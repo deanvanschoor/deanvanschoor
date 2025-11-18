@@ -3,7 +3,7 @@
 ## About Me
 Python, SQL - mainly for data pipelines.
 
-## My prodjects 
+## My projects 
 ### Python
 
 
